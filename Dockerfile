@@ -39,6 +39,7 @@ RUN apt-get -qq -y update && \
         bash-completion \
         tree \
         vim \
+	ssh-server \
         software-properties-common && \
     mv /usr/bin/lsb_release /usr/bin/lsb_release.bak && \
     apt-get -y autoclean && \

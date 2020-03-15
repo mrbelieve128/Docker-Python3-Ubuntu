@@ -34,6 +34,7 @@ Dockerfile for image built off [Ubuntu 18.04](https://wiki.ubuntu.com/BionicBeav
 - bash-completion
 - tree
 - vim
+- ssh-server
 
 ### From source
 
